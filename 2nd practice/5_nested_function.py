@@ -7,24 +7,22 @@ def calculator():
         return round(a * b,1)
     def deln(a,b):
         return round(a / b,1)
-    a = input('Вводи число, мамонт: ')
-    arg = 0
-    while arg == 0:
-        try:
-            a = int(a)
-        except ValueError:
-            a = input('Мудак, я сказал число!')
-        else:
-            arg = 1
-    b = input('И второе: ')
-    arg = 0
-    while arg == 0:
-        try:
-            b = int(b)
-        except ValueError:
-            b = input('Мудак, я сказал число!')
-        else:
-            arg = 1
+
+    def chislo(g):
+        arg = 0
+        while arg == 0:
+            try:
+                g = float(g)
+            except ValueError:
+                g = input('Ой... вы ввели не число!\n')
+            else:
+                arg = 1
+        return g
+
+    a = chislo(input('Вводи число, мамонт: '))
+
+    b = chislo(input('И второе: '))
+
     action = input('Выбирай операцию (пластической нет)(+, -, *, /): ')
     if action == '+':
         print('Результат: ', sloj(a,b))
