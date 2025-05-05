@@ -20,17 +20,19 @@ def check_grade(score):
     except ValueError:
         return "Ошибка: введите числовое значение."
 
+    text = f'Оценка за {score} баллов:'
     if 90 <= score <= 100:
-        return f'Оценка за {score} баллов: Отлично.'
+        text += ' Отлично.'
     elif 75 <= score <= 89:
-        return f'Оценка за {score} баллов: Хорошо.'
+        text += ' Хорошо.'
     elif 50 <= score <= 74:
-        return f'Оценка за {score} баллов: Удовлетворительно.'
+        text += ' Удовлетворительно.'
     elif 0 <= score <= 49:
-        return f'Оценка за {score} баллов: Неудовлетворительно.'
+        text += ' Неудовлетворительно.'
     else:
-        return 'Совсем дурень? Ты че написал?'
+        text = 'Совсем дурень? Ты че написал?'
+    return text
 
 # Пример вызова
-result = check_grade(77)
+result = check_grade(-7)
 print(result)
