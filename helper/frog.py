@@ -8,3 +8,7 @@ def IntVal(num):
         else:
             arg = 1
             return num
+
+print(type(len('frog')))
+
+print(range(4))

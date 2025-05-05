@@ -12,7 +12,7 @@ Side1 = input('Гони сторону треугольника: ')
 arg = 0
 while arg == 0:
     try:
-         Side1 = int(Side1)
+        Side1 = int(Side1)
     except ValueError:
         Side1 = input('Мудак, я сказал число!')
     else:
