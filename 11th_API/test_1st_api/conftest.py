@@ -13,13 +13,14 @@ def auth_session():
 
     auth_response = session.post(f"{BASE_URL}/auth", json={"username": "admin", "password": "password123"})
     assert auth_response.status_code == 200, "Ошибка авторизации, статус код не 200"
+
     token = auth_response.json().get("token")
     assert token is not None, "Токен не найден в ответе"
 
     session.headers.update({"Cookie": f"token={token}"})
     return session
 
-@pytest.fixture()
+@pytest.fixture(scope="session")
 def booking_data():
     return {
         "firstname": faker.first_name(),

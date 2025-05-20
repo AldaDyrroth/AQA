@@ -62,7 +62,7 @@ class TestBookings:
         assert booking_data_response['bookingdates']['checkout'] == booking_data['bookingdates'][
             'checkout'], "Дата выезда не совпадает"
 
-# 3 negative несуществующая бронь
+# 3 negative обновление несуществующей брони
     def test_update_none_booking(self, booking_data, auth_session):
         get_booking = auth_session.get(f"{BASE_URL}/booking").json()
         booking_id = [item["bookingid"] for item in get_booking]
