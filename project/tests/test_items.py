@@ -1,9 +1,8 @@
-import random
 import uuid
 import allure
 
-from project.config.constants import BASE_URL
-from project.tests.conftest import random_item_id
+from config.constants import BASE_URL
+from conftest import random_item_id
 
 
 class TestItems():

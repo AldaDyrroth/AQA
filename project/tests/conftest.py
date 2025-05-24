@@ -1,4 +1,4 @@
-from project.config.constants import BASE_URL, DATA, API_HEADERS, AUTH_HEADERS
+from config.constants import BASE_URL, DATA, API_HEADERS, AUTH_HEADERS
 import requests
 import pytest
 import random
