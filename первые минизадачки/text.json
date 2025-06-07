@@ -1,0 +1,350 @@
+{"nextOffset":421708,"records":[{"key":{"msgId":"36e749fd-317c-498c-84b2-c8674476e64f","creationTime":"2025-05-12T16:33:42+03:00","system":{"name":"job-tracking",
+"version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"inde
+x_to":"353915","barcode":"10100008974796"}},"value":{"message_id":"704946fc-7785-4997-a245-4e0c2464259c","sender_id":"101000","receiver_id":"353915","data_type":"
+04","format_version":"24.5.1","sys_id":{"date_time":"2025-05-12 13:33:42","source_id":"PP","po_version":"PP1.0.873"},"content":{"type":1,"category_id":2,"operatio
+n_info":{"message_id":"91b6e272-4bad-4792-91a3-c22fb910c3c4","sys_id":{"date_time":"2025-05-12 13:33:42","source_id":"PP","po_version":"PP1.0.873"},"oper_date_tim
+e":"2025-05-12 16:33:41","oper_time_zone":"+03:00","oper_address_data":{"type":3,"index":"101000","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"typ
+e_of_operand1":1,"id_of_operand1":"10100008974796","entity_bar_code":"10100008974796","rpo_info":{"base_info":{"type":15,"properties":[{"name":"isdogovor","value"
+:"0"},{"name":"sender_comment","value":"test1"},{"name":"declared_volume_weight","value":"0"},{"name":"sizing_method","value":"0"},{"name":"identical_sizes","valu
+e":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-12 13:33:42","source_id":"PP","po_version":"PP1.0.873"},"bar_code":"10100008974796","creat
+e_date_time":"","create_address_data":{"type":3,"index":"101000","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg
+":3,"trans_type":4,"post_mark":[2],"mail_rank":4,"pay_type":[2],"index_from":"101000","index_to":"353915","country_from":"643","country_to":"643","weight":[{"type
+":1,"value":50.0,"measurement":"g"},{"type":3,"value":0.0,"measurement":"g"},{"type":13,"value":0.0,"measurement":"g"},{"type":11,"value":50.0,"measurement":"g"},
+{"type":12,"value":0.0,"measurement":"g"}],"money":[{"type":3,"value":24000,"measurement":"RUB"},{"type":11,"value":9500,"measurement":"RUB"}],"rcpn":{"type":3,"p
+roperties":[{"name":"phone","value":"89817585722"}],"name":"ООО \"Автоцентр\"","category_id":1},"rcpn_address":{"type":4,"index":"353915","address":{"type":1,"reg
+ion":"Краснодарский","place":"Новороссийск","street":"Революции 1905 года","house":{"value":"35"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sn
+dr":{"type":2,"properties":[{"name":"inn","value":"6669013851"},{"name":"kpp","value":"662301001"},{"name":"phone","value":"243973"},{"name":"acnt","value":"12 пх
+"},{"name":"acnt_date","value":"2016-01-01"}],"name":"000 \"Регион-Снаб\"","category_id":2},"sndr_address":{"type":3,"index":"622030","address":{"type":1,"region"
+:"Свердловская","place":"Нижний Тагил","street":"Коммуны","house":{"building":"99"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sms_info":{"sms_
+notification":[{"sms_type":[1,2],"client_type":1,"sms_tel":"243973"},{"sms_type":[1,2],"client_type":2,"sms_tel":"89817585722"}]}}},"person_list":[{"type":1,"prop
+erties":[{"name":"guid","value":"65b7906d-8db2-417e-ab88-486e088207f1"},{"name":"role","value":"Администратор"}],"name":"test 101000 adm"}]}}},"partition":0,"offs
+et":421688},{"key":{"msgId":"a2748d7a-bbff-4cc4-92d7-96c33b1f31a4","creationTime":"2025-05-13T09:23:15+03:00","system":{"name":"job-tracking","version":"1.5.75"},
+"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"104000","barc
+ode":"RL798850238RU"}},"value":{"message_id":"50a4cc1c-fe61-4238-855f-c60706dfcebe","sender_id":"187021","receiver_id":"DataCloud","data_type":"04","format_versio
+n":"24.5.8","sys_id":{"date_time":"2025-05-13 06:23:05","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id"
+:1,"operation_info":{"message_id":"fb9e0330-53ef-4aa2-383a-8662fef38e47","sys_id":{"date_time":"2025-05-13 06:23:05","source_id":"EO4:eas4-sending-mail","po_versi
+on":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 09:23:05","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"187021","country":{"a2_code":"
+RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"RL798850238RU","entity_bar_code":"RL798850238RU","rpo_info":{"base_info":{"type":3,"p
+roperties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 06:23:05","source_id":"EO4:eas4-sending-mail",
+"po_version":"EO4:eas4-sending-mai"},"bar_code":"RL798850238RU","create_date_time":"","create_address_data":{"type":3,"index":"187021","country":{"a2_code":"RU","
+a3_code":"RUS","ru_code":"643"}},"direct_ctg":2},"rpo_info":{"send_ctg":1,"trans_type":2,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"187021","inde
+x_to":"104000","country_from":"643","country_to":"40","weight":[{"type":1,"value":600.0,"measurement":"g"}],"money":[{"type":3,"value":234000,"measurement":"RUB"}
+,{"type":11,"value":29000,"measurement":"RUB"}],"rcpn":{"type":3,"name":"ag ag","category_id":1},"rcpn_address":{"type":4,"zip_code":"ag","address":{"type":1,"pla
+ce":"ag","street":"ag","house":{}},"country":{"a2_code":"AT","a3_code":"AUT","ru_code":"40"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79114561234"
+}],"name":"BURYAKOV MATEUSH ANTONOVICH","category_id":1},"sndr_address":{"type":3,"index":"141160","address":{"type":1,"region":"Moskovskaya obl","place":"Zvezdny
+'j gorodok p","house":{"value":"d. 49","room":"51"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"contents":{"properties":[{"name":"nature_of_tran
+saction_code","value":"91"}],"content":[{"money":[{"type":12,"value":100,"measurement":"RUB"}],"weight":[{"type":9,"value":1.0,"measurement":"g"}],"description":"
+1","units":1,"origin_location":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"},"tnved":"","id":"1","category_feature":"00","url":"","trade_mark":"","item_number"
+:"","goods_id":"","goods_service":0}],"money":[{"type":12,"value":100,"measurement":"RUB"}]}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Нача
+льник (отделения почтовой связи 1 класса)"},{"name":"guid","value":"889227923959"}],"name":"Федосеева Майя Богуславовна"}]}}},"partition":0,"offset":421689},{"key
+":{"msgId":"1a298109-9968-4a3d-81a9-442107de55b9","creationTime":"2025-05-13T11:20:31+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"clu
+ster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"104000","barcode":"RJ971761818
+RU"}},"value":{"message_id":"d597ed40-098d-4214-8dbf-15e90d1dff83","sender_id":"190430","receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_
+id":{"date_time":"2025-05-13 08:20:31","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_inf
+o":{"message_id":"b6f07244-770c-3aa0-24d4-ef1c203864e1","sys_id":{"date_time":"2025-05-13 08:20:31","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sen
+ding-mai"},"oper_date_time":"2025-05-13 11:20:31","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"190430","country":{"a2_code":"RU","a3_code":"RU
+S","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"RJ971761818RU","entity_bar_code":"RJ971761818RU","rpo_info":{"base_info":{"type":2,"properties":[{"nam
+e":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 08:20:31","source_id":"EO4:eas4-sending-mail","po_version":"EO4
+:eas4-sending-mai"},"bar_code":"RJ971761818RU","create_date_time":"","create_address_data":{"type":3,"index":"190430","country":{"a2_code":"RU","a3_code":"RUS","r
+u_code":"643"}},"direct_ctg":2},"rpo_info":{"send_ctg":1,"trans_type":2,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"190430","index_to":"104000","c
+ountry_from":"643","country_to":"688","weight":[{"type":1,"value":100.0,"measurement":"g"}],"money":[{"type":3,"value":68000,"measurement":"RUB"}],"rcpn":{"type":
+3,"name":"ff ff","category_id":1},"rcpn_address":{"type":4,"zip_code":"444444","address":{"type":1,"place":"dd dd","street":"dd dd","house":{}},"country":{"a2_cod
+e":"RS","a3_code":"SRB","ru_code":"688"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79114561233"}],"name":"ANTONOV ANDREJ","category_id":1},"sndr_ad
+dress":{"type":3,"index":"300013","address":{"type":1,"region":"Tul'skaya obl","place":"Tula g","street":"Boldina ul","house":{"value":"d. 2","room":"3"}},"countr
+y":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 1 класса
+)"},{"name":"guid","value":"702232468455"}],"name":"Соколова Лили Кимовна"}]}}},"partition":0,"offset":421690},{"key":{"msgId":"280d7ab6-4ff5-4531-85e8-780447af71
+16","creationTime":"2025-05-13T12:11:46+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPE
+RATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"10725854835826"}},"value":{"message_id":"f080ebe5-b83e-4e
+12-8e8b-787b9d730230","sender_id":"107258","receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:11:46","sourc
+e_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"7eb3df80-5390-124a-2822-54c
+e494d176a","sys_id":{"date_time":"2025-05-13 09:11:46","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:11
+:46","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id
+_of_operand1":"10725854835826","entity_bar_code":"10725854835826","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_ty
+pe":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 09:11:46","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725854835
+826","create_date_time":"","create_address_data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info"
+:{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","country_to":"643","wei
+ght":[{"type":1,"value":90.0,"measurement":"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value"
+:0,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Родионов Георгий","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":"Москв
+а г","place":"Москва г","street":"Детская ул","house":{"value":"д. 19","room":"54"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,
+"properties":[{"name":"phone","value":"79787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"107258","address":{"type":1,"reg
+ion":"Москва г","place":"Москва г","street":"Погонный проезд","house":{"value":"д. 48","room":"1"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},
+"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Сми
+рнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421691},{"key":{"msgId":"5c106249-d6a3-44c9-81a6-44c96fbf56f0","creationTime":"2025-05-13T12:15:05+03:00","sys
+tem":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERAT
+ION_RPO","attributes":{"index_to":"107258","barcode":"10725897623626"}},"value":{"message_id":"349cfd14-11d6-42b7-9e3b-a131266cd558","sender_id":"107258","receive
+r_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:15:00","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas
+4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"6a75e07b-5f1d-e2c8-281f-580c60a8d6e3","sys_id":{"date_time":"2025-05-13 09:15:
+00","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:15:00","oper_time_zone":"+03:00","oper_address_data":
+{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725897623626","entity_bar_code":"1
+0725897623626","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-0
+5-13 09:15:00","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725897623626","create_date_time":"","create_address_data":{"
+type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail
+_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"measurement":"g"}],"m
+oney":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value":0,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Ю
+дин Клавдия","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Погонный проезд","hou
+se":{"value":"д. 48","room":"1"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79787179841"
+}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Детска
+я ул","house":{"value":"д. 19","room":"54"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","
+value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421
+692},{"key":{"msgId":"e1911105-2f7d-40d9-99e3-32ebf7760203","creationTime":"2025-05-13T12:26:55+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipi
+ent":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"1
+0725868437450"}},"value":{"message_id":"c7132662-1a72-4d80-b4ca-aa769d769d03","sender_id":"107258","receiver_id":"DataCloud","data_type":"04","format_version":"24
+.5.8","sys_id":{"date_time":"2025-05-13 09:26:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"op
+eration_info":{"message_id":"398489e7-6163-598e-586c-b5e7285fa8db","sys_id":{"date_time":"2025-05-13 09:26:45","source_id":"EO4:eas4-sending-mail","po_version":"E
+O4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:26:45","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a
+3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725868437450","entity_bar_code":"10725868437450","rpo_info":{"base_info":{"type":2,"prope
+rties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 09:26:45","source_id":"EO4:eas4-sending-mail","po_
+version":"EO4:eas4-sending-mai"},"bar_code":"10725868437450","create_date_time":"","create_address_data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_
+code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_t
+o":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"measurement":"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"ty
+pe":17,"value":0,"measurement":"RUB"},{"type":18,"value":0,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Фомичева Денис","category_id":1},"rcpn_address":{"type":
+4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Погонный проезд","house":{"value":"д. 48","room":"1"}},"country":{"a2_code
+":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_ad
+dress":{"type":3,"index":"107207","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Байкальская ул","house":{"value":"д. 23","room":"34"}},"cou
+ntry":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 1 кла
+сса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421693},{"key":{"msgId":"280e16ac-5247-4532-bd3d-95f
+bec4ddfdc","creationTime":"2025-05-13T12:30:56+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICA
+TED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"10725837455676"}},"value":{"message_id":"c49015ae-
+7a07-4a50-806a-a72ba06c90c6","sender_id":"107258","receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:30:45"
+,"source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"7373fb16-5ddd-fbe1-2
+8af-961798f6f25d","sys_id":{"date_time":"2025-05-13 09:30:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-1
+3 12:30:45","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1
+":1,"id_of_operand1":"10725837455676","entity_bar_code":"10725837455676","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"en
+tity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 09:30:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"1072
+5837455676","create_date_time":"","create_address_data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rp
+o_info":{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","country_to":"64
+3","weight":[{"type":1,"value":90.0,"measurement":"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,
+"value":0,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Лихачев Зинаида","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":
+"Москва г","place":"Москва г","street":"Погонный проезд","house":{"value":"д. 48","room":"1"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":
+{"type":2,"properties":[{"name":"phone","value":"79787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"107207","address":{"ty
+pe":1,"region":"Москва г","place":"Москва г","street":"Байкальская ул","house":{"value":"д. 23","room":"34"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":
+"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"
+name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421694},{"key":{"msgId":"35b3aba1-333b-4340-8d1f-9889e4dbe429","creationTime":"2025-05-13T12:31:48+0
+3:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"typ
+e":"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"10725898984672"}},"value":{"message_id":"a3d24d8e-de09-4aec-afeb-a3a7fb740ff9","sender_id":"107258
+","receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:31:45","source_id":"EO4:eas4-sending-mail","po_version
+":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"ed2df7e5-a39f-1a93-5cfb-3c6bdeb3cf3d","sys_id":{"date_time":"2025-05
+-13 09:31:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:31:45","oper_time_zone":"+03:00","oper_addr
+ess_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725898984672","entity_ba
+r_code":"10725898984672","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_tim
+e":"2025-05-13 09:31:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725898984672","create_date_time":"","create_addres
+s_data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark"
+:[0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"measurement
+":"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value":0,"measurement":"RUB"}],"rcpn":{"type":3
+,"name":"Сорокина Евгений","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Детская
+ ул","house":{"value":"д. 19","room":"54"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79
+787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"105005","address":{"type":1,"region":"Москва г","place":"Москва г","stree
+t":"Аптекарский пер","house":{"value":"д. 13-15","room":"2"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":
+[{"name":"role","value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partitio
+n":0,"offset":421695},{"key":{"msgId":"774eb6b7-00d3-4514-ae60-867bfb7d4955","creationTime":"2025-05-13T12:32:23+03:00","system":{"name":"job-tracking","version":
+"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"107
+258","barcode":"10725884799747"}},"value":{"message_id":"a585be4c-4456-4921-8863-ee00c8e015c0","sender_id":"107258","receiver_id":"DataCloud","data_type":"04","fo
+rmat_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:32:15","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"c
+ategory_id":1,"operation_info":{"message_id":"e963a0cd-7835-94fe-6d09-9634a058f011","sys_id":{"date_time":"2025-05-13 09:32:15","source_id":"EO4:eas4-sending-mail
+","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:32:15","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"107258","country":{
+"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725884799747","entity_bar_code":"10725884799747","rpo_info":{"base_info"
+:{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 09:32:15","source_id":"EO4:eas4-s
+ending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725884799747","create_date_time":"","create_address_data":{"type":3,"index":"107258","country":{"a
+2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":
+"107258","index_to":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"measurement":"g"}],"money":[{"type":3,"value":9200,"measure
+ment":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value":0,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Шашкова Макар","category_id":1},"rcpn_a
+ddress":{"type":4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Детская ул","house":{"value":"д. 19","room":"54"}},"countr
+y":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id"
+:1},"sndr_address":{"type":3,"index":"123458","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Твардовского ул","house":{"value":"д. 23","room
+":"15"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (отделения почтово
+й связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421696},{"key":{"msgId":"bec2b922-1c41-
+45cf-ade2-1ed3de9ad15a","creationTime":"2025-05-13T12:32:53+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-T
+YPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"10725831536173"}},"value":{"message_i
+d":"dddd3415-4fac-4d6e-8665-946d9d2f1b19","sender_id":"107258","receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05
+-13 09:32:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"d7b22df
+9-8c5b-e6e2-c880-0da0da0a1e83","sys_id":{"date_time":"2025-05-13 09:32:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_tim
+e":"2025-05-13 12:32:45","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"typ
+e_of_operand1":1,"id_of_operand1":"10725831536173","entity_bar_code":"10725831536173","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","val
+ue":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 09:32:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"ba
+r_code":"10725831536173","create_date_time":"","create_address_data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direc
+t_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","co
+untry_to":"643","weight":[{"type":1,"value":90.0,"measurement":"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"
+},{"type":18,"value":0,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Чернов Роман","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1
+,"region":"Москва г","place":"Москва г","street":"Погонный проезд","house":{"value":"д. 48","room":"1"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"
+}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"123458","add
+ress":{"type":1,"region":"Москва г","place":"Москва г","street":"Твардовского ул","house":{"value":"д. 23","room":"15"}},"country":{"a2_code":"RU","a3_code":"RUS"
+,"ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"
+DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421697},{"key":{"msgId":"836b9a70-9974-4507-a3d3-24f54c29f28a","creationTime":"2025-05-13
+T12:33:52+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprec
+ated"},"type":"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"10725813577736"}},"value":{"message_id":"089396ee-0c11-4ffa-b0d0-01691ff418a1","sender_
+id":"107258","receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:33:45","source_id":"EO4:eas4-sending-mail",
+"po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"ddca53da-e3e6-02d4-b044-e1e797192c1a","sys_id":{"date_tim
+e":"2025-05-13 09:33:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:33:45","oper_time_zone":"+03:00"
+,"oper_address_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725813577736"
+,"entity_bar_code":"10725813577736","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id"
+:{"date_time":"2025-05-13 09:33:45","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725813577736","create_date_time":"","cr
+eate_address_data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,
+"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"
+measurement":"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value":0,"measurement":"RUB"}],"rcpn
+":{"type":3,"name":"Константинов Лариса","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","st
+reet":"Погонный проезд","house":{"value":"д. 48","room":"1"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"
+phone","value":"79787179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"123458","address":{"type":1,"region":"Москва г","place"
+:"Москва г","street":"Твардовского ул","house":{"value":"д. 23","room":"15"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type"
+:1,"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна
+"}]}}},"partition":0,"offset":421698},{"key":{"msgId":"cd9134d3-f913-4be8-b362-df1a91ebc47c","creationTime":"2025-05-13T12:35:13+03:00","system":{"name":"job-trac
+king","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":
+{"index_to":"153996","barcode":"15399111165350"}},"value":{"message_id":"97ed82ee-60c2-4d24-9651-5d4d1732f38f","sender_id":"153991","receiver_id":"153996","data_t
+ype":"04","format_version":"24.5.2","sys_id":{"date_time":"2025-05-13 09:35:13","source_id":"ANM","po_version":"ANM136.0.0.1009"},"content":{"type":1,"category_id
+":1,"operation_info":{"message_id":"0b239f05-9f00-45cb-ab30-63ab23f805f0","sys_id":{"date_time":"2025-05-13 09:35:13","source_id":"ANM","po_version":"ANM136.0.0.1
+009"},"oper_date_time":"2025-05-13 12:32:20","oper_time_zone":"+03:00","oper_address_data":{"index":"153991","country":{"ru_code":"643"}},"type_of_operand1":1,"id
+_of_operand1":"15399111165350","entity_bar_code":"15399111165350","rpo_info":{"base_info":{"type":6,"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05
+-13 09:35:13","source_id":"ANM","po_version":"ANM136.0.0.1009"},"bar_code":"15399111165350","create_date_time":"","create_address_data":{"index":"153991"},"direct
+_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[16],"index_from":"153991","index_to":"153996","country_from":"643","cou
+ntry_to":"643","weight":[{"type":1,"value":5.0,"measurement":"g"}],"money":[{"type":3,"value":6300,"measurement":"RUB"}],"rcpn":{"type":3,"name":"МАКАРОВ СЕРГЕЙ С
+ЕРГЕЕВИЧ","category_id":1},"rcpn_address":{"type":4,"index":"153996","address":{"type":1,"region":"ИВАНОВСКАЯ","place":"ИВАНОВО","street":"УЛ ГАГАРИНА","house":{"
+value":"11"}},"country":{"ru_code":"643"}},"sndr":{"type":2,"name":"ОТПРАВКИН ИВАН ИВАНОВИЧ","category_id":1},"sndr_address":{"type":3,"index":"153991","address":
+{"type":1,"region":"Ивановская","place":"Иваново","street":"ул Герцена","house":{"value":"3","room":"1"}},"country":{"ru_code":"643"}}}},"person_list":[{"type":1,
+"properties":[{"name":"role","value":"Начальник (отделения почтовой связи 3 класса) (ОПС)"},{"name":"guid","value":"fd694afd-5f48-11e8-80bd-005056ba0255"}],"name"
+:"Горбунова Елена Валентиновна"}]}}},"partition":0,"offset":421699},{"key":{"msgId":"ec12c2bc-71bd-4fbe-83cf-d583848f88b7","creationTime":"2025-05-13T12:35:39+03:
+00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type"
+:"OPERATION_RPO","attributes":{"index_to":"107258","barcode":"10725834782126"}},"value":{"message_id":"977432da-ec6c-4930-96e7-356dd059a027","sender_id":"107258",
+"receiver_id":"DataCloud","data_type":"04","format_version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:35:30","source_id":"EO4:eas4-sending-mail","po_version":
+"EO4:eas4-sending-mai"},"content":{"type":1,"category_id":1,"operation_info":{"message_id":"c1e2aa2f-b2fa-dbe5-e16b-173331df545d","sys_id":{"date_time":"2025-05-1
+3 09:35:30","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:35:30","oper_time_zone":"+03:00","oper_addres
+s_data":{"type":1,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725834782126","entity_bar_
+code":"10725834782126","rpo_info":{"base_info":{"type":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time"
+:"2025-05-13 09:35:30","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725834782126","create_date_time":"","create_address_
+data":{"type":3,"index":"107258","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[
+0],"mail_rank":0,"pay_type":[16],"index_from":"107258","index_to":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"measurement":
+"g"}],"money":[{"type":3,"value":9200,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value":0,"measurement":"RUB"}],"rcpn":{"type":3,"
+name":"Федосеева Раиса","category_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Детская ул
+","house":{"value":"д. 19","room":"54"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79787
+179841"}],"name":"ФРОЛОВА НИКОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"123458","address":{"type":1,"region":"Москва г","place":"Москва г","street":
+"Твардовского ул","house":{"value":"д. 23","room":"15"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"na
+me":"role","value":"Начальник (отделения почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,
+"offset":421700},{"key":{"msgId":"323eca03-b691-413e-bf08-9c27cdd84652","creationTime":"2025-05-13T12:40:49+03:00","system":{"name":"job-tracking","version":"1.5.
+75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"107258",
+"barcode":"10725876112110"}},"value":{"message_id":"48106ec0-4038-45d2-ae98-51287a62fb7e","sender_id":"107258","receiver_id":"DataCloud","data_type":"04","format_
+version":"24.5.8","sys_id":{"date_time":"2025-05-13 09:40:46","source_id":"EO4:eas4-sending-mail","po_version":"EO4:eas4-sending-mai"},"content":{"type":1,"catego
+ry_id":1,"operation_info":{"message_id":"93a2533b-2bae-9e70-9b3c-07702fe95d18","sys_id":{"date_time":"2025-05-13 09:40:46","source_id":"EO4:eas4-sending-mail","po
+_version":"EO4:eas4-sending-mai"},"oper_date_time":"2025-05-13 12:40:46","oper_time_zone":"+03:00","oper_address_data":{"type":1,"index":"107258","country":{"a2_c
+ode":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"10725876112110","entity_bar_code":"10725876112110","rpo_info":{"base_info":{"ty
+pe":2,"properties":[{"name":"sizing_method","value":"0"}],"entity_type":1,"category_id":2,"sys_id":{"date_time":"2025-05-13 09:40:46","source_id":"EO4:eas4-sendin
+g-mail","po_version":"EO4:eas4-sending-mai"},"bar_code":"10725876112110","create_date_time":"","create_address_data":{"type":3,"index":"107258","country":{"a2_cod
+e":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":1,"trans_type":1,"post_mark":[4],"mail_rank":0,"pay_type":[1],"index_from":"10725
+8","index_to":"107258","country_from":"643","country_to":"643","weight":[{"type":1,"value":90.0,"measurement":"g"}],"money":[{"type":2,"value":10000,"measurement"
+:"RUB"},{"type":3,"value":20520,"measurement":"RUB"},{"type":4,"value":360,"measurement":"RUB"},{"type":11,"value":13000,"measurement":"RUB"},{"type":6,"value":60
+80,"measurement":"RUB"},{"type":17,"value":0,"measurement":"RUB"},{"type":18,"value":15600,"measurement":"RUB"}],"rcpn":{"type":3,"name":"Шашкова Елизавета","cate
+gory_id":1},"rcpn_address":{"type":4,"index":"107258","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Детская ул","house":{"value":"д. 19","r
+oom":"54"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"phone","value":"79787179841"}],"name":"ФРОЛОВА НИК
+ОЛАЙ","category_id":1},"sndr_address":{"type":3,"index":"107241","address":{"type":1,"region":"Москва г","place":"Москва г","street":"Бирюсинка ул","house":{"valu
+e":"д. 10","room":"1"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}}}},"person_list":[{"type":1,"properties":[{"name":"role","value":"Начальник (от
+деления почтовой связи 1 класса) (ОПС)"},{"name":"guid","value":"DMO001"}],"name":"Смирнова Лидия Мефодьевна"}]}}},"partition":0,"offset":421701},{"key":{"msgId":
+"19cbd8da-d3d7-4491-b247-61504a5823ad","creationTime":"2025-05-13T13:14:27+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb"
+,"topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"420075","barcode":"80085609315072"}},"val
+ue":{"message_id":"da0124d0-e285-4c20-9389-d9fba4a2ff54","sender_id":"614046","receiver_id":"420075","data_type":"04","format_version":"24.5.1","sys_id":{"date_ti
+me":"2025-05-13 10:14:27","source_id":"PP","po_version":"PP1.0.873"},"content":{"type":1,"category_id":2,"operation_info":{"message_id":"215391b5-a165-4131-bbbb-d
+1c4e7c515fc","sys_id":{"date_time":"2025-05-13 10:14:27","source_id":"PP","po_version":"PP1.0.873"},"oper_date_time":"2025-05-13 15:14:26","oper_time_zone":"+05:0
+0","oper_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"8008560931507
+2","entity_bar_code":"80085609315072","rpo_info":{"base_info":{"type":2,"properties":[{"name":"isdogovor","value":"0"},{"name":"sizing_method","value":"0"},{"name
+":"identical_sizes","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 10:14:27","source_id":"PP","po_version":"PP1.0.873"},"bar_code
+":"80085609315072","create_date_time":"","create_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg"
+:1},"rpo_info":{"send_ctg":5,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[256],"index_from":"614046","index_to":"420075","country_from":"643","country
+_to":"643","weight":[{"type":1,"value":50.0,"measurement":"g"},{"type":3,"value":0.0,"measurement":"g"},{"type":13,"value":0.0,"measurement":"g"},{"type":11,"valu
+e":50.0,"measurement":"g"},{"type":12,"value":0.0,"measurement":"g"}],"money":[{"type":3,"value":10080,"measurement":"RUB"}],"rcpn":{"type":3,"properties":[{"name
+":"phone","value":"79609801122"}],"name":"Иванов Иван Иванович","category_id":1},"rcpn_address":{"type":4,"index":"420075","address":{"type":1,"region":"Татарстан
+","place":"Казань","street":"Мира ул","house":{"value":"3"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"i
+nn","value":"2865769904"},{"name":"kpp","value":"679975546"},{"name":"phone","value":"79824678469"},{"name":"acnt","value":" №1autotestPP"},{"name":"acnt_date","v
+alue":"2024-10-30"}],"name":"autotestPP","category_id":2},"sndr_address":{"type":3,"index":"614046","address":{"type":1,"region":"край Пермский","place":"г Пермь"
+,"street":"ул Энгельса","house":{"value":"18"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"eorder":{"number":"666","date_time":"2025-05-13T15:14
+:26+05:00","estore":{"name":"autotestPP"}}}},"person_list":[{"type":1,"properties":[{"name":"guid","value":"fbe43587-423f-41a9-ae66-8ba02aaad420"},{"name":"role",
+"value":"Оператор"}],"name":"Пользователь для импортера Автотест 1 1"}]}}},"partition":0,"offset":421702},{"key":{"msgId":"7f5748ff-937a-4608-bc5f-f4b2bb2e2a37","
+creationTime":"2025-05-13T13:14:29+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIO
+NS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"423800","barcode":"80085609315089"}},"value":{"message_id":"e191cf2c-53b1-4575-94
+76-1dac5cc301bb","sender_id":"614046","receiver_id":"423800","data_type":"04","format_version":"24.5.1","sys_id":{"date_time":"2025-05-13 10:14:27","source_id":"P
+P","po_version":"PP1.0.873"},"content":{"type":1,"category_id":2,"operation_info":{"message_id":"325724e2-f977-4b84-9859-4f69f071885e","sys_id":{"date_time":"2025
+-05-13 10:14:27","source_id":"PP","po_version":"PP1.0.873"},"oper_date_time":"2025-05-13 15:14:26","oper_time_zone":"+05:00","oper_address_data":{"type":3,"index"
+:"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"80085609315089","entity_bar_code":"80085609315089","r
+po_info":{"base_info":{"type":2,"properties":[{"name":"isdogovor","value":"0"},{"name":"sizing_method","value":"0"},{"name":"identical_sizes","value":"0"}],"entit
+y_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 10:14:27","source_id":"PP","po_version":"PP1.0.873"},"bar_code":"80085609315089","create_date_time":""
+,"create_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":5,"trans_type
+":1,"post_mark":[0],"mail_rank":0,"pay_type":[256],"index_from":"614046","index_to":"423800","country_from":"643","country_to":"643","weight":[{"type":1,"value":5
+0.0,"measurement":"g"},{"type":3,"value":0.0,"measurement":"g"},{"type":13,"value":0.0,"measurement":"g"},{"type":11,"value":50.0,"measurement":"g"},{"type":12,"v
+alue":0.0,"measurement":"g"}],"money":[{"type":3,"value":10080,"measurement":"RUB"}],"rcpn":{"type":3,"properties":[{"name":"phone","value":"79609801122"}],"name"
+:"Иванов Иван Иванович","category_id":1},"rcpn_address":{"type":4,"index":"423800","address":{"type":1,"region":"Татарстан","place":"Екатиренбург","street":"Мира
+ул","house":{"value":"3"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"inn","value":"2865769904"},{"name":
+"kpp","value":"679975546"},{"name":"phone","value":"79824678469"},{"name":"acnt","value":" №1autotestPP"},{"name":"acnt_date","value":"2024-10-30"}],"name":"autot
+estPP","category_id":2},"sndr_address":{"type":3,"index":"614046","address":{"type":1,"region":"край Пермский","place":"г Пермь","street":"ул Энгельса","house":{"
+value":"18"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"eorder":{"number":"666","date_time":"2025-05-13T15:14:26+05:00","estore":{"name":"autot
+estPP"}}}},"person_list":[{"type":1,"properties":[{"name":"guid","value":"2368aeb3-d1e1-4936-8e06-838fa79d01bd"},{"name":"role","value":"Оператор"}],"name":"Польз
+ователь для импортера Автотест 1 1"}]}}},"partition":0,"offset":421703},{"key":{"msgId":"1d0dc7f0-c56c-4e9c-a165-6d5106ae5cfa","creationTime":"2025-05-13T13:14:53
++03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"t
+ype":"OPERATION_RPO","attributes":{"index_to":"423800","barcode":"80085609315102"}},"value":{"message_id":"82f55435-6644-47cf-9bf2-444858150416","sender_id":"6140
+46","receiver_id":"423800","data_type":"04","format_version":"24.5.1","sys_id":{"date_time":"2025-05-13 10:14:43","source_id":"PP","po_version":"PP1.0.873"},"cont
+ent":{"type":1,"category_id":2,"operation_info":{"message_id":"185fc0a4-044e-4eb8-b6b6-3b0f8acc2d78","sys_id":{"date_time":"2025-05-13 10:14:43","source_id":"PP",
+"po_version":"PP1.0.873"},"oper_date_time":"2025-05-13 15:14:43","oper_time_zone":"+05:00","oper_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU
+","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"80085609315102","entity_bar_code":"80085609315102","rpo_info":{"base_info":{"type":15,"
+properties":[{"name":"isdogovor","value":"0"},{"name":"sizing_method","value":"0"},{"name":"identical_sizes","value":"0"}],"entity_type":1,"category_id":1,"sys_id
+":{"date_time":"2025-05-13 10:14:43","source_id":"PP","po_version":"PP1.0.873"},"bar_code":"80085609315102","create_date_time":"","create_address_data":{"type":3,
+"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":5,"trans_type":4,"post_mark":[0],"mail_rank":0
+,"pay_type":[256],"index_from":"614046","index_to":"423800","country_from":"643","country_to":"643","weight":[{"type":1,"value":450.0,"measurement":"g"},{"type":3
+,"value":0.0,"measurement":"g"},{"type":13,"value":0.0,"measurement":"g"},{"type":11,"value":450.0,"measurement":"g"},{"type":12,"value":0.0,"measurement":"g"}],"
+money":[{"type":3,"value":42600,"measurement":"RUB"}],"rcpn":{"type":3,"properties":[{"name":"phone","value":"79609801122"}],"name":"Иванов Иван Иванович","catego
+ry_id":1},"rcpn_address":{"type":4,"index":"423800","address":{"type":1,"region":"Татарстан","place":"Екатиренбург","street":"Мира ул","house":{"value":"3"}},"cou
+ntry":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"inn","value":"2865769904"},{"name":"kpp","value":"679975546"},{"na
+me":"phone","value":"79824678469"},{"name":"acnt","value":" №1autotestPP"},{"name":"acnt_date","value":"2024-10-30"}],"name":"autotestPP","category_id":2},"sndr_a
+ddress":{"type":3,"index":"614046","address":{"type":1,"region":"край Пермский","place":"г Пермь","street":"ул Энгельса","house":{"value":"18"}},"country":{"a2_co
+de":"RU","a3_code":"RUS","ru_code":"643"}},"eorder":{"number":"666","date_time":"2025-05-13T15:14:43+05:00","estore":{"name":"autotestPP"}}}},"person_list":[{"typ
+e":1,"properties":[{"name":"guid","value":"a4c3679b-fbc7-41a3-80b5-d01798f2e536"},{"name":"role","value":"Оператор"}],"name":"Пользователь для импортера Автотест
+1 1"}]}}},"partition":0,"offset":421704},{"key":{"msgId":"a8caa17c-c4b9-44ac-b3b6-6ae437239c61","creationTime":"2025-05-13T13:14:53+03:00","system":{"name":"job-t
+racking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attribute
+s":{"index_to":"420075","barcode":"80085609315096"}},"value":{"message_id":"3dbab506-f8ba-4e73-bfb0-382d7d19cd6b","sender_id":"614046","receiver_id":"420075","dat
+a_type":"04","format_version":"24.5.1","sys_id":{"date_time":"2025-05-13 10:14:43","source_id":"PP","po_version":"PP1.0.873"},"content":{"type":1,"category_id":2,
+"operation_info":{"message_id":"02740085-5313-40ed-a26b-df54c1c92ded","sys_id":{"date_time":"2025-05-13 10:14:43","source_id":"PP","po_version":"PP1.0.873"},"oper
+_date_time":"2025-05-13 15:14:43","oper_time_zone":"+05:00","oper_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"64
+3"}},"type_of_operand1":1,"id_of_operand1":"80085609315096","entity_bar_code":"80085609315096","rpo_info":{"base_info":{"type":15,"properties":[{"name":"isdogovor
+","value":"0"},{"name":"sizing_method","value":"0"},{"name":"identical_sizes","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 10:1
+4:43","source_id":"PP","po_version":"PP1.0.873"},"bar_code":"80085609315096","create_date_time":"","create_address_data":{"type":3,"index":"614046","country":{"a2
+_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":5,"trans_type":4,"post_mark":[0],"mail_rank":0,"pay_type":[256],"index_from":
+"614046","index_to":"420075","country_from":"643","country_to":"643","weight":[{"type":1,"value":450.0,"measurement":"g"},{"type":3,"value":0.0,"measurement":"g"}
+,{"type":13,"value":0.0,"measurement":"g"},{"type":11,"value":450.0,"measurement":"g"},{"type":12,"value":0.0,"measurement":"g"}],"money":[{"type":3,"value":42600
+,"measurement":"RUB"}],"rcpn":{"type":3,"properties":[{"name":"phone","value":"79609801122"}],"name":"Иванов Иван Иванович","category_id":1},"rcpn_address":{"type
+":4,"index":"420075","address":{"type":1,"region":"Татарстан","place":"Казань","street":"Мира ул","house":{"value":"3"}},"country":{"a2_code":"RU","a3_code":"RUS"
+,"ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"inn","value":"2865769904"},{"name":"kpp","value":"679975546"},{"name":"phone","value":"79824678469"},{"
+name":"acnt","value":" №1autotestPP"},{"name":"acnt_date","value":"2024-10-30"}],"name":"autotestPP","category_id":2},"sndr_address":{"type":3,"index":"614046","a
+ddress":{"type":1,"region":"край Пермский","place":"г Пермь","street":"ул Энгельса","house":{"value":"18"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"6
+43"}},"eorder":{"number":"666","date_time":"2025-05-13T15:14:43+05:00","estore":{"name":"autotestPP"}}}},"person_list":[{"type":1,"properties":[{"name":"guid","va
+lue":"a5fddf5f-4c6e-4705-a60d-a206fd9533cf"},{"name":"role","value":"Оператор"}],"name":"Пользователь для импортера Автотест 1 1"}]}}},"partition":0,"offset":4217
+05},{"key":{"msgId":"a665b83d-3e90-4229-86e1-abe378a1118c","creationTime":"2025-05-13T13:15:01+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipie
+nt":{"cluster":"cdb","topic":"CDB-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"423800","barcode":"80
+085609315126"}},"value":{"message_id":"dc9ff2d1-8780-43e2-bc14-eb8a4dff82d4","sender_id":"614046","receiver_id":"423800","data_type":"04","format_version":"24.5.1
+","sys_id":{"date_time":"2025-05-13 10:14:59","source_id":"PP","po_version":"PP1.0.873"},"content":{"type":1,"category_id":2,"operation_info":{"message_id":"0c862
+2a6-c39c-4491-b69b-288febd5c838","sys_id":{"date_time":"2025-05-13 10:14:59","source_id":"PP","po_version":"PP1.0.873"},"oper_date_time":"2025-05-13 15:14:58","op
+er_time_zone":"+05:00","oper_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_oper
+and1":"80085609315126","entity_bar_code":"80085609315126","rpo_info":{"base_info":{"type":3,"properties":[{"name":"isdogovor","value":"0"},{"name":"sizing_method"
+,"value":"0"},{"name":"identical_sizes","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 10:14:59","source_id":"PP","po_version":"P
+P1.0.873"},"bar_code":"80085609315126","create_date_time":"","create_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":
+"643"}},"direct_ctg":1},"rpo_info":{"send_ctg":5,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[256],"index_from":"614046","index_to":"423800","country_
+from":"643","country_to":"643","weight":[{"type":1,"value":450.0,"measurement":"g"},{"type":3,"value":0.0,"measurement":"g"},{"type":13,"value":0.0,"measurement":
+"g"},{"type":11,"value":450.0,"measurement":"g"},{"type":12,"value":0.0,"measurement":"g"}],"money":[{"type":3,"value":20160,"measurement":"RUB"}],"rcpn":{"type":
+3,"properties":[{"name":"phone","value":"79609801122"}],"name":"Иванов Иван Иванович","category_id":1},"rcpn_address":{"type":4,"index":"423800","address":{"type"
+:1,"region":"Татарстан","place":"Екатиренбург","street":"Мира ул","house":{"value":"3"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type
+":2,"properties":[{"name":"inn","value":"2865769904"},{"name":"kpp","value":"679975546"},{"name":"phone","value":"79824678469"},{"name":"acnt","value":" №1autotes
+tPP"},{"name":"acnt_date","value":"2024-10-30"}],"name":"autotestPP","category_id":2},"sndr_address":{"type":3,"index":"614046","address":{"type":1,"region":"край
+ Пермский","place":"г Пермь","street":"ул Энгельса","house":{"value":"18"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"eorder":{"number":"666","
+date_time":"2025-05-13T15:14:58+05:00","estore":{"name":"autotestPP"}}}},"person_list":[{"type":1,"properties":[{"name":"guid","value":"838d1c8f-f04b-4daa-a04c-b5
+8442425aa9"},{"name":"role","value":"Оператор"}],"name":"Пользователь для импортера Автотест 1 1"}]}}},"partition":0,"offset":421706},{"key":{"msgId":"3fc44422-90
+99-4b4b-8852-90ac120e7bd6","creationTime":"2025-05-13T13:15:06+03:00","system":{"name":"job-tracking","version":"1.5.75"},"recipient":{"cluster":"cdb","topic":"CD
+B-TYPE-DEDUPLICATED-OPERATIONS_RPO","address":"deprecated"},"type":"OPERATION_RPO","attributes":{"index_to":"420075","barcode":"80085609315119"}},"value":{"messag
+e_id":"23c2eece-9a61-40d1-89a2-ce7a6f5a3214","sender_id":"614046","receiver_id":"420075","data_type":"04","format_version":"24.5.1","sys_id":{"date_time":"2025-05
+-13 10:14:59","source_id":"PP","po_version":"PP1.0.873"},"content":{"type":1,"category_id":2,"operation_info":{"message_id":"858b97da-46a1-4d00-af0e-3a96f095d2a4"
+,"sys_id":{"date_time":"2025-05-13 10:14:59","source_id":"PP","po_version":"PP1.0.873"},"oper_date_time":"2025-05-13 15:14:58","oper_time_zone":"+05:00","oper_add
+ress_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"type_of_operand1":1,"id_of_operand1":"80085609315119","entity_b
+ar_code":"80085609315119","rpo_info":{"base_info":{"type":3,"properties":[{"name":"isdogovor","value":"0"},{"name":"sizing_method","value":"0"},{"name":"identical
+_sizes","value":"0"}],"entity_type":1,"category_id":1,"sys_id":{"date_time":"2025-05-13 10:14:59","source_id":"PP","po_version":"PP1.0.873"},"bar_code":"800856093
+15119","create_date_time":"","create_address_data":{"type":3,"index":"614046","country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"direct_ctg":1},"rpo_inf
+o":{"send_ctg":5,"trans_type":1,"post_mark":[0],"mail_rank":0,"pay_type":[256],"index_from":"614046","index_to":"420075","country_from":"643","country_to":"643","
+weight":[{"type":1,"value":450.0,"measurement":"g"},{"type":3,"value":0.0,"measurement":"g"},{"type":13,"value":0.0,"measurement":"g"},{"type":11,"value":450.0,"m
+easurement":"g"},{"type":12,"value":0.0,"measurement":"g"}],"money":[{"type":3,"value":20160,"measurement":"RUB"}],"rcpn":{"type":3,"properties":[{"name":"phone",
+"value":"79609801122"}],"name":"Иванов Иван Иванович","category_id":1},"rcpn_address":{"type":4,"index":"420075","address":{"type":1,"region":"Татарстан","place":
+"Казань","street":"Мира ул","house":{"value":"3"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"sndr":{"type":2,"properties":[{"name":"inn","value
+":"2865769904"},{"name":"kpp","value":"679975546"},{"name":"phone","value":"79824678469"},{"name":"acnt","value":" №1autotestPP"},{"name":"acnt_date","value":"202
+4-10-30"}],"name":"autotestPP","category_id":2},"sndr_address":{"type":3,"index":"614046","address":{"type":1,"region":"край Пермский","place":"г Пермь","street":
+"ул Энгельса","house":{"value":"18"}},"country":{"a2_code":"RU","a3_code":"RUS","ru_code":"643"}},"eorder":{"number":"666","date_time":"2025-05-13T15:14:58+05:00"
+,"estore":{"name":"autotestPP"}}}},"person_list":[{"type":1,"properties":[{"name":"guid","value":"0ffb56cd-847b-4232-bc89-8d8eaf4afe38"},{"name":"role","value":"О
+ператор"}],"name":"Пользователь для импортера Автотест 1 1"}]}}},"partition":0,"offset":421707}]}
